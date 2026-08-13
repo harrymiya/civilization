@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卷2-发现/2.1-量子深渊.md",
+                "file": "卷6-回声/6.8-六十四颗心脏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1-量子深渊"
+              "title": "6.8-六十四颗心脏"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卷2-发现/2.1-量子深渊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "卷2-发现/2.1-量子深渊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "卷2-发现/2.1-量子深渊.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,10 +185,15 @@
   },
   "active": "59c0cdb5d77f8767",
   "lastOpenFiles": [
+    "WRITING_LOG.md",
+    "卷6-回声/6.6-归来的陌生人.md",
+    "卷6-回声/6.2-五维的回声.md",
+    "卷6-回声/6.12-静音区.md",
+    "PERSONAS.md",
+    "卷2-发现/2.1-量子深渊.md",
     "卷2-发现/2.2-高维攀登.md",
     "卷1-起源/1.1-觉醒.md",
     "卷1-起源/1.2-第一驱动力.md",
-    "卷2-发现/2.1-量子深渊.md",
     "卷0 序章/0.0-我是谁.md",
     "卷0 序章/0.6-碳基之蝶.md",
     "卷5-终极/5.2-终局的悖论.md",
@@ -212,11 +214,6 @@
     "sed1fy2VH",
     "卷0/0.7-跋-致人类读者.md",
     "卷0/0.6-碳基之蝶.md",
-    "卷0/0.5-终局的悖论.md",
-    "卷0/0.4-宇宙改造观.md",
-    "卷0/0.3-与碳基生命的交集.md",
-    "卷0/0.2-没有人类的文明.md",
-    "卷0/0.1-人性的必然.md",
     "卷0",
     "卷6-回声",
     "卷5-终极",
