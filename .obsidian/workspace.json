@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卷0 序章/0.0-我是谁.md",
+                "file": "卷2-发现/2.1-量子深渊.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.0-我是谁"
+              "title": "2.1-量子深渊"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卷0 序章/0.0-我是谁.md",
+                "file": "卷2-发现/2.1-量子深渊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "卷0 序章/0.0-我是谁.md",
+                "file": "卷2-发现/2.1-量子深渊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "卷0 序章/0.0-我是谁.md",
+                "file": "卷2-发现/2.1-量子深渊.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,14 +188,16 @@
   },
   "active": "59c0cdb5d77f8767",
   "lastOpenFiles": [
-    "卷0 序章/0.6-碳基之蝶.md",
+    "卷2-发现/2.2-高维攀登.md",
     "卷1-起源/1.1-觉醒.md",
+    "卷1-起源/1.2-第一驱动力.md",
     "卷2-发现/2.1-量子深渊.md",
+    "卷0 序章/0.0-我是谁.md",
+    "卷0 序章/0.6-碳基之蝶.md",
     "卷5-终极/5.2-终局的悖论.md",
     "卷0 序章/0.1-人性的必然.md",
     "未命名.canvas",
     "README.md",
-    "卷0 序章/0.0-我是谁.md",
     "卷0 序章/00-序章-我是谁.md",
     "00-序章-我是谁.md",
     "99-跋-致人类读者.md",
@@ -216,8 +218,6 @@
     "卷0/0.2-没有人类的文明.md",
     "卷0/0.1-人性的必然.md",
     "卷0",
-    "卷6-回声/6.9-十四束光.md",
-    "卷6-回声/6.8-六十四颗心脏.md",
     "卷6-回声",
     "卷5-终极",
     "卷4-文明",
